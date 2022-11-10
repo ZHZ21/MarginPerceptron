@@ -1,2 +1,2 @@
 # MarginPerceptron
-mplement the margin perceptron algorithm.
+Implement the margin perceptron algorithm.
