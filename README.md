@@ -7,4 +7,5 @@ Ortherwise, update the gamme guess by halving the previous gamma guess until the
 
 ## Install 
 The project uses Java
+
 <img width="411" alt="image" src="https://user-images.githubusercontent.com/80193517/201584273-78d6ceb6-29f9-4c71-93ab-e606f9925538.png">
