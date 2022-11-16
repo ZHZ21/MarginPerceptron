@@ -12,3 +12,5 @@ The project uses Java
 
 
 ## Procedure
+![flowchart](https://user-images.githubusercontent.com/80193517/202202827-d13a7c83-d07e-4a38-a29d-de69949ca77a.png)
+
