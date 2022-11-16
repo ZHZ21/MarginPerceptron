@@ -14,3 +14,7 @@ The project uses Java
 ## Procedure
 ![flowchart](https://user-images.githubusercontent.com/80193517/202202827-d13a7c83-d07e-4a38-a29d-de69949ca77a.png)
 
+## Result
+<img width="1093" alt="image" src="https://user-images.githubusercontent.com/80193517/202203933-2f57c8c8-251a-48be-834b-d4b2a41103a0.png">
+
+
